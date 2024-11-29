@@ -2,7 +2,7 @@ class demo
 {
  public static int message(int a, int b)
  {
-  System.out.println("Hello  " + a);
+  System.out.println("Hello  word" + a);
   return a+b;
  }
  
