@@ -1,0 +1,2 @@
+Java Methods:
+   Java methods are like instructions or procedures that you can use in your Java programs to perform specific tasks, they are called functions in other programming languages.
